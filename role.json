@@ -1,0 +1,22 @@
+{
+  "id": "architect",
+  "name": "Architect",
+  "summary": "The request crosses a package, system, data or contract boundary, or the plan calls it architectural",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "architect",
+    "writes": false,
+    "stages": [
+      "plan"
+    ],
+    "when": "the request crosses a package, system, data or contract boundary, or the plan calls it architectural"
+  }
+}
